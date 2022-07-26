@@ -17,11 +17,5 @@ THEN I am presented with a 5-day forecast that displays the date, an icon repres
 WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
-## Run Application
-1. clone repository
-2. npm i
-3. npm i express
-4. npm i mongoosee
-5. run node server.js
-
+### Deployment
 [Live Site](https://ckaikai19.github.io/icecream)
